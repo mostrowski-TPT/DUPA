@@ -1,0 +1,2 @@
+In console vim click insert to go back to command mode
+then :wq to save the commit comment
